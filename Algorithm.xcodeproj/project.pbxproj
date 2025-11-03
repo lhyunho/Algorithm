@@ -27,6 +27,7 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"LeetCode/1. Two Sum.swift",
+				"LeetCode/2. Add Two Numbers.swift",
 			);
 			target = BE2E55B12EB8BEB5004C3522 /* Algorithm */;
 		};
